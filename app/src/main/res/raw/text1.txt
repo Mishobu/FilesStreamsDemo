@@ -1,0 +1,5 @@
+
+	* Many old talents have been converted to specialization abilities.
+	* Druids now have access to a fourth class specialization: Guardian.
+	* New spells are now learned automatically. Class trainers are only needed to change talents, glyphs, class specialization, or to utilize the dual specialization feature.
+	* All characters now take 40% less damage from other players.
